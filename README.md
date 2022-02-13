@@ -36,7 +36,7 @@ I'm a 1st year Student living in Maharastra, India. I love to Code and enjoy mus
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:heetjpande@gmail.com">![heetjpande@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://https://t.me/kakashi_kage/">![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="mailto:heetjpande@gmail.com">![heetjpande@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://t.me/kakashi_kage/">![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 
 <!--
