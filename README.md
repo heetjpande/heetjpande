@@ -1,7 +1,45 @@
-### Hi there 👋
+<!-- Code written by laxmena -->
+
+<h2>Hey! 👋</h2>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=heetjpande.heetjpande)](https://github.com/heetjpande) [![GitHub followers](https://img.shields.io/github/followers/heetjpande.svg?style=social&label=Follow)](https://github.com/heetjpande?tab=followers)
+
+I'm HEET PANDE! 
+- <i>Currently:</i> CS Student. 
+
+<h2>💻 I'm Currently Learning</h2>
+
+__Computer Science__
+- Programming in C
+- Javascript
+
+<!-- <h2>Currently working:</h2> -->
+<!-- <h4>Freelancing</h4> -->
+
+<h2>👀 Stats</h2>
+
+<div>
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=heetjpande" alt="GitHub Stats" /> <br/><br/>
+  </p>
+</div>
+
+<h2> About Heet⚡:</h2>
+
+I'm a 1st year Student living in Maharastra, India. I love to Code and enjoy music. If you are around Maharastra, drop an email, and let's catch up over Coffee!
+ 
+<!-- - Check out my Blog: [https://laxmena.com](https://laxmena.com)
+- Know more about me: [About ME](https://laxmena.com/pages/about) -->
+- Write to me: [Heetjpande@gmail.com](mailto:heetjpande@gmail.com)
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:heetjpande@gmail.com">![heetjpande@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://https://t.me/kakashi_kage/">![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)</a>
+
 
 <!--
-**heetjpande/heetjpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
