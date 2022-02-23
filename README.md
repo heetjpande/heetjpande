@@ -24,6 +24,10 @@ __Computer Science__
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=heetjpande" alt="GitHub Stats" /> <br/><br/>
   </p>
+  <p align="center">
+  <b><em>Code Wars Stats:</em></b> <br/>
+    <img src="https://www.codewars.com/users/kakashikage/badges/large" alt="Code Wars Stats" /> <br/><br/>
+  </p>
 </div>
 
 <h2> About Heet⚡:</h2>
