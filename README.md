@@ -40,12 +40,14 @@ I'm a 2nd year Student living in Maharastra, India. I love to Code and enjoy mus
 - Know more about me: [About ME](https://laxmena.com/pages/about) -->
 - Write to me: [Heetjpande@gmail.com](mailto:heetjpande@gmail.com)
 
+<h2> Fun fact⚡:</h2>
+
+I practice typing daily on MonkeyType, and currently have highest speed of 86 WPM and average speed of 65 WPM.
+
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:heetjpande@gmail.com">![heetjpande@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://t.me/kakashi_kage/">![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
-<h2>⚡ Fun fact:</h2>
-I practice typing daily on MonkeyType, and currently have highest speed of 86 WPM and average speed of 65 WPM.
 
 <!--
 
