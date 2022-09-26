@@ -12,6 +12,8 @@ I'm HEET PANDE!
 __Computer Science__
 - Programming in C
 - Javascript
+- Java
+
 
 <!-- <h2>Currently working:</h2> -->
 <!-- <h4>Freelancing</h4> -->
@@ -32,7 +34,7 @@ __Computer Science__
 
 <h2> About Heet⚡:</h2>
 
-I'm a 1st year Student living in Maharastra, India. I love to Code and enjoy music. If you are around Maharastra, drop an email, and let's catch up over Coffee!
+I'm a 2nd year Student living in Maharastra, India. I love to Code and enjoy music. If you are around Maharastra, drop an email, and let's catch up over Coffee!
  
 <!-- - Check out my Blog: [https://laxmena.com](https://laxmena.com)
 - Know more about me: [About ME](https://laxmena.com/pages/about) -->
@@ -42,6 +44,8 @@ I'm a 1st year Student living in Maharastra, India. I love to Code and enjoy mus
 
 <a href="mailto:heetjpande@gmail.com">![heetjpande@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://t.me/kakashi_kage/">![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
+<h2>⚡ Fun fact:</h2>
+I practice typing daily on MonkeyType, and currently have highest speed of 86 WPM and average speed of 65 WPM.
 
 <!--
 
