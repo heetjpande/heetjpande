@@ -14,6 +14,9 @@ __Computer Science__
 - Javascript
 - Java
 
+# Currently doing the #100DaysOfCode challenge
+- Check out the repository :) 
+
 
 <!-- <h2>Currently working:</h2> -->
 <!-- <h4>Freelancing</h4> -->
