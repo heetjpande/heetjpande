@@ -14,7 +14,7 @@ __Computer Science__
 - Javascript
 - Java
 
-# Currently doing the #100DaysOfCode challenge
+- Currently doing the #100DaysOfCode challenge
 - Check out the repository :) 
 
 
