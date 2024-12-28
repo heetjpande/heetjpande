@@ -14,9 +14,6 @@ __Computer Science__
 - Javascript
 - Java
 
-- Currently doing the #100DaysOfCode challenge
-- Check out the repository :) 
-
 
 <!-- <h2>Currently working:</h2> -->
 <!-- <h4>Freelancing</h4> -->
@@ -37,7 +34,7 @@ __Computer Science__
 
 <h2> About Heet⚡:</h2>
 
-I'm a 2nd year Student living in Maharastra, India. I love to Code and enjoy music. If you are around Maharastra, drop an email, and let's catch up over Coffee!
+I'm a Final year Student living in Maharastra, India. I love to Code and enjoy music. If you are around Maharastra, drop an email, and let's catch up over Coffee!
  
 <!-- - Check out my Blog: [https://laxmena.com](https://laxmena.com)
 - Know more about me: [About ME](https://laxmena.com/pages/about) -->
